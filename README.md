@@ -4,7 +4,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Building+Real+World+Projects;Frontend+%2B+Backend+Learner;Exploring+Generative+AI;Future+Data+Scientist" />
 </p>
----
 
 ## 👨‍💻 About Me
 
@@ -41,8 +40,15 @@
 
 * Admin & User system
 * Watchlist & content management
-* 
+
 ---
+### 🕹️ GTA VI Inspired Landing Page  
+> Interactive animated landing page built with React.js & Tailwind CSS  
+
+- 🎬 Multi-frame cinematic animations  
+- 🖱️ Real-time cursor tracking effects  
+- ✨ Onboarding letter mask animation  
+- ⚡ Smooth transitions & modern UI experience
 
 ## 🌱 Currently Learning
 
